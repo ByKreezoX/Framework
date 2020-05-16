@@ -6,6 +6,8 @@
 
 ⛏️・This is the dependency of the Menu framework
 
+🔒 Requirements:
+
 ----------------------------------
 
 💥 https://github.com/ByKreezoX 💥
